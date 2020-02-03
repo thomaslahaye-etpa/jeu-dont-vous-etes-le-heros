@@ -16,6 +16,8 @@ if (playerChoice==1){
 else if (playerChoice==2){
 	printf("Vous avancez d'un pas mal assuré vers la forêt, et vous enfoncez sous le couvert des arbres. \n")
 };
+
+return 0;
 };
 
 // FIN EX 1 //
