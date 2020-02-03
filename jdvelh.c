@@ -11,11 +11,29 @@ printf ("Que faites-vous ? \n");
 printf ("(1) Vous prenez la route du château. \n (2) Vous vous dirigez vers la forêt. \n");
 scanf("%d", playerChoice);
 if (playerChoice==1){
+
 	printf("Vous vous élancez vers le château, bien déterminé à en rencontrer les occupants. \n")
 };
 else if (playerChoice==2){
 	printf("Vous avancez d'un pas mal assuré vers la forêt, et vous enfoncez sous le couvert des arbres. \n")
 };
+
+return 0;
 };
 
-// FIN EX 1 //
+
+	printf("Vous vous élancez vers le château, bien déterminé à en rencontrer les occupants. \n");
+
+else (playerChoice==2){
+	printf("Vous avancez d'un pas mal assuré vers la forêt, et vous enfoncez sous le couvert des arbres. \n");
+};
+
+
+
+typedef struct Chapter chapter(){;
+	int descr,
+	int POGain,
+	int HPGain,
+	char [10];
+}
+>>>>>>> Stashed changes
