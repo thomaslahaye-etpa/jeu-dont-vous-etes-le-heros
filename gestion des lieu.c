@@ -88,4 +88,3 @@ int main(){
     return 0;
 }
 
->>>>>>> gestion-des-lieux
